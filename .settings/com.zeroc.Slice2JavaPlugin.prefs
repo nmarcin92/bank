@@ -1,0 +1,3 @@
+///Bank/slice/CertSigner.ice.meta=-I C\:Program Files (x86)ZeroCIce-3.5.1sliceIce
+eclipse.preferences.version=1
+includes=../../../../Program Files (x86)/ZeroC/Ice-3.5.1/include
